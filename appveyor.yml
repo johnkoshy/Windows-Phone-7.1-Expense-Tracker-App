@@ -4,6 +4,22 @@ image: Visual Studio 2017
 platform: Any CPU
 configuration: Release
 
+install:
+  # Install Windows Phone 7.1 SDK dependencies
+  - ps: |
+      # Download SDK installer
+      Invoke-WebRequest "https://download.microsoft.com/download/B/9/F/B9F1AF57-14C7-4785-B5A7-47921660703F/WindowsPhone71SDK.iso" -OutFile "$env:TEMP\wp71sdk.iso"
+      
+      # Mount ISO and install
+      $diskImg = Mount-DiskImage -ImagePath "$env:TEMP\wp71sdk.iso" -PassThru
+      $driveLetter = ($diskImg | Get-Volume).DriveLetter
+      Start-Process -Wait -FilePath "$($driveLetter):\Setup\WPexpress_full.exe" -ArgumentList "/q /norestart"
+      
+      # Verify installation
+      if (!(Test-Path "${env:ProgramFiles(x86)}\Microsoft SDKs\Windows Phone\v7.1")) {
+        throw "Windows Phone 7.1 SDK installation failed"
+      }
+
 build:
   project: Windows-Phone-7.1-Expense-Tracker-App.sln
   verbosity: minimal
