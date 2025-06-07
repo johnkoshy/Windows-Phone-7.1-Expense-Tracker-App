@@ -1,5 +1,0 @@
-﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Windows-Phone-7.1-Expense-Tracker-App" EntryPointType="Windows_Phone_7._1_Expense_Tracker_App.App" RuntimeVersion="4.7.50308.0">
-  <Deployment.Parts>
-    <AssemblyPart x:Name="Windows-Phone-7.1-Expense-Tracker-App" Source="Windows-Phone-7.1-Expense-Tracker-App.dll" />
-  </Deployment.Parts>
-</Deployment>
