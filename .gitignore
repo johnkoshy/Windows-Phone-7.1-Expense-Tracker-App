@@ -1,0 +1,16 @@
+# Windows Phone ignores
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.cache
+*.aps
+*.pch
+*.vspscc
+*.vssscc
+*_i.c
+*_p.c
+*.ncb
+*.sdf
+*.ipch
+*.opensdf
