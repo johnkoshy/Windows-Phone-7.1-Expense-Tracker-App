@@ -1,11 +1,9 @@
 version: 1.0.{build}
 image: Visual Studio 2017
 
+platform: Any CPU
+configuration: Release
+
 build:
   project: Windows-Phone-7.1-Expense-Tracker-App.sln
-  platform: Any CPU
-  configuration: Release
   verbosity: minimal
-
-# Skip WP7.1 SDK install - assuming it's already in VS2017 image
-# If still failing, we'll need manual SDK setup
