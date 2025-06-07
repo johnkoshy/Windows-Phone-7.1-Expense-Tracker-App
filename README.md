@@ -1,4 +1,4 @@
-# Windows Phone 7.1 Expense Tracker App
+# Windows Phone 7.1 Expense Tracker App ![Platform](https://img.shields.io/badge/platform-Windows%20Phone%207.1-yellow) ![License](https://img.shields.io/badge/license-MIT-blue)
 
 A simple expense tracking application for Windows Phone 7.1
 
@@ -17,7 +17,7 @@ A simple expense tracking application for Windows Phone 7.1
 3. Build and deploy to emulator or device
 
 ## Screenshots
-![Windows-Phone-7.1-Expense-Tracker-App Main Screen](Screenshots/main.png)
+![Main Screen](Screenshots/main.png)
 
 ## License
-MIT
+MIT License - See [LICENSE](LICENSE) file for details
