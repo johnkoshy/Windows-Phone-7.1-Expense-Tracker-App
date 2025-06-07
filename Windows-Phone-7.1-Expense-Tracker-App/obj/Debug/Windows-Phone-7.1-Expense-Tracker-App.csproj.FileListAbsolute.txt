@@ -1,0 +1,12 @@
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\Bin\Debug\ApplicationIcon.png
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\Bin\Debug\Background.png
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\Bin\Debug\Windows-Phone-7.1-Expense-Tracker-App.dll
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\Bin\Debug\Windows-Phone-7.1-Expense-Tracker-App.pdb
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\Bin\Debug\AppManifest.xaml
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\Bin\Debug\Windows_Phone_7._1_Expense_Tracker_App.xap
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\obj\Debug\App.g.cs
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\obj\Debug\MainPage.g.cs
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\obj\Debug\Windows-Phone-7.1-Expense-Tracker-App.g.resources
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\obj\Debug\Windows-Phone-7.1-Expense-Tracker-App.dll
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\obj\Debug\Windows-Phone-7.1-Expense-Tracker-App.pdb
+C:\Users\koshy\vstudio_prjs\Windows-Phone-7.1-Expense-Tracker-App\Windows-Phone-7.1-Expense-Tracker-App\obj\Debug\XapCacheFile.xml
